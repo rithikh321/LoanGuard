@@ -56,4 +56,4 @@ Once the data is submitted, it is processed through our FastAPI backend:
 This project was built collaboratively for HACKMAN held @DSCE by the following members:
 * **[rithikh321](https://github.com/rithikh321)**
 * **[Prakeerth1212](https://github.com/Prakeerth1212)** 
-* **[Damanpreet Singh](https://github.com/)**
+* **[DMANPRO](https://github.com/DMANPRO)**
